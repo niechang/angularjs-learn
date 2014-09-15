@@ -1,0 +1,353 @@
+<base href='/courses/shaping-up-with-angular-js/'>
+<campus cache-key='b7523842-0f80-4363-87ee-29856fa2215d' course-identifier='shaping-up-with-angular-js' user-has-access='true'>
+<script id='_courseIndexData' type='text/ng-template'>
+{"node_type":"course","node_label":"Shaping up with Angular.js","query_string":"shaping-up-with-angular-js","name":"Shaping up with Angular.js","attributes":{"_uid":"b520ee59-6df6-4e70-84d7-66267cb18cb9","required":null},"nodes":[{"node_type":"container","node_label":"user","query_string":"user/account","name":null,"attributes":{"_uid":"df19d586-f6e8-4667-9c80-c846e5216c5b","required":null},"nodes":[{"node_type":"page","node_label":"user_info","query_string":"user/account/info","name":null,"attributes":{"_uid":"0c23684d-2010-41bc-949c-35a35e92bad1","required":null},"progress":0},{"node_type":"page","node_label":"user_achievements","query_string":"user/account/achievements","name":null,"attributes":{"_uid":"9fe6909a-9a8a-42ac-9139-d69052837c9c","required":null},"progress":0}],"progress":0},{"node_type":"page","node_label":"course_intro","query_string":"intro","name":null,"attributes":{"_uid":"9ca94c67-4ea7-40a5-8fcf-a8bb5d06019b","required":null},"progress":0},{"node_type":"page","node_label":"course_index","query_string":"contents","name":null,"attributes":{"_uid":"e1f16e77-f2ab-448b-a720-26f865f23e01","required":null},"progress":0},{"node_type":"container","node_label":"level","query_string":"level/1","name":"Flatlander's Gem Store","attributes":{"_uid":"de304273-d6ce-40fc-818f-57cfa0d0ad39","required":null},"nodes":[{"node_type":"container","node_label":"section","query_string":"level/1/section/1","name":"Ramp Up","attributes":{"_uid":"c6f2fe12-13aa-4610-96b2-6d652231fa01","required":null},"nodes":[{"node_type":"page","node_label":"video","query_string":"level/1/section/1/video/1","name":"Ramp Up","attributes":{"_uid":"9f048bb9-be19-4878-91d6-8f36735807cf","required":null},"progress":0},{"node_type":"page","node_label":"editor_challenge","query_string":"level/1/section/1/creating-a-store-module","name":"Creating a Store Module","attributes":{"_uid":"a5e17c06-a825-4535-b60e-ea33efed030f","required":true},"progress":0}],"progress":0},{"node_type":"container","node_label":"section","query_string":"level/1/section/2","name":"Index HTML Setup Up","attributes":{"_uid":"c5d1704d-7495-4692-942e-6924cf26840a","required":null},"nodes":[{"node_type":"page","node_label":"video","query_string":"level/1/section/2/video/1","name":"Index HTML Setup","attributes":{"_uid":"35572a5a-50ca-4e33-90db-da777b2433da","required":null},"progress":0},{"node_type":"page","node_label":"editor_challenge","query_string":"level/1/section/2/our-first-controller","name":"Our First Controller","attributes":{"_uid":"188a2bde-408e-4ee3-a13d-390474b0ea02","required":true},"progress":0}],"progress":0},{"node_type":"container","node_label":"section","query_string":"level/1/section/3","name":"Using Built-in Directives","attributes":{"_uid":"f4fa2a60-12fa-4be8-950f-c51e050dd6f8","required":null},"nodes":[{"node_type":"page","node_label":"video","query_string":"level/1/section/3/video/1","name":"Built-in Directives","attributes":{"_uid":"d6768d27-f054-4616-9597-01ccf92b8176","required":null},"progress":0},{"node_type":"page","node_label":"editor_challenge","query_string":"level/1/section/3/not-for-sale","name":"Not For Sale","attributes":{"_uid":"547b927e-5230-47e5-b586-02e31b48eb88","required":true},"progress":0},{"node_type":"page","node_label":"editor_challenge","query_string":"level/1/section/3/more-gems","name":"Look, More Gems!","attributes":{"_uid":"fe023ef4-0f3c-4d69-9de3-5b43c77f7166","required":true},"progress":0}],"progress":0},{"node_type":"page","node_label":"level_wrap_up","query_string":"level/1/wrap-up","name":null,"attributes":{"_uid":"de9eef37-ad8f-49bd-8646-4564b756a9bc","required":null},"progress":0}],"progress":0},{"node_type":"container","node_label":"level","query_string":"level/2","name":"Built-in Directives","attributes":{"_uid":"ecd64fab-f9ed-4977-9226-582ab03ce1ea","required":null},"nodes":[{"node_type":"container","node_label":"section","query_string":"level/2/section/1","name":"Gallery","attributes":{"_uid":"1cf55384-ec1f-49a0-9408-360c1439469b","required":null},"nodes":[{"node_type":"page","node_label":"video","query_string":"level/2/section/1/video/1","name":"Filters and a New Directive","attributes":{"_uid":"cdc74265-424b-4ca4-b13d-df50559ca6da","required":null},"progress":0},{"node_type":"page","node_label":"editor_challenge","query_string":"level/2/section/1/using-filters","name":"Using filters","attributes":{"_uid":"cc45a73c-4b50-439a-ad29-775357416c5f","required":true},"progress":0},{"node_type":"page","node_label":"editor_challenge","query_string":"level/2/section/1/displaying-first-image","name":"Displaying the First Image","attributes":{"_uid":"d011a463-b7aa-4a00-9727-48531d4b5879","required":true},"progress":0},{"node_type":"page","node_label":"editor_challenge","query_string":"level/2/section/1/display-all-thumbnails","name":"Display All Thumbnails","attributes":{"_uid":"cd8bf5ad-8eed-497d-8efb-be2a0d18b6e8","required":true},"progress":0},{"node_type":"page","node_label":"editor_challenge","query_string":"level/2/section/1/no-images-no-gallery","name":"No Images, No Gallery","attributes":{"_uid":"f631b3b7-3354-4ad2-8c88-10b3b8522d4c","required":true},"progress":0}],"progress":0},{"node_type":"container","node_label":"section","query_string":"level/2/section/2","name":"Tabs","attributes":{"_uid":"f7fc3436-0ddf-46d3-aa41-b629ca621ebb","required":null},"nodes":[{"node_type":"page","node_label":"video","query_string":"level/2/section/2/video/1","name":"Tabs Inside Out","attributes":{"_uid":"4f2d9719-37aa-4031-9e92-45129d204036","required":null},"progress":0},{"node_type":"page","node_label":"editor_challenge","query_string":"level/2/section/2/tabs-inside-out","name":"Tabs Inside Out","attributes":{"_uid":"18762f63-70a7-4dbd-8249-55d093a39794","required":true},"progress":0},{"node_type":"page","node_label":"editor_challenge","query_string":"level/2/section/2/using-tab-controller","name":"Using TabController","attributes":{"_uid":"9a3727a0-f016-4d73-b0ec-c3d1c0caae38","required":true},"progress":0},{"node_type":"page","node_label":"editor_challenge","query_string":"level/2/section/2/gallery-controller","name":"Creating Gallery Controller","attributes":{"_uid":"30dcb0b6-9e27-42ad-82e0-0d6b4f98bdf6","required":true},"progress":0},{"node_type":"page","node_label":"editor_challenge","query_string":"level/2/section/2/using-gallery-controller","name":"Using Gallery Controller","attributes":{"_uid":"9493ade5-10ea-42d7-93b0-2ea7ab2cf9ed","required":true},"progress":0}],"progress":0},{"node_type":"page","node_label":"level_wrap_up","query_string":"level/2/wrap-up","name":null,"attributes":{"_uid":"88ea33eb-4a02-4dfc-b2aa-95648ded2517","required":null},"progress":0}],"progress":0},{"node_type":"container","node_label":"level","query_string":"level/3","name":"Forms","attributes":{"_uid":"f5c2e8f2-61ec-4f38-ab2d-79582804a226","required":null},"nodes":[{"node_type":"container","node_label":"section","query_string":"level/3/section/1","name":"Review Populating Tabs","attributes":{"_uid":"06a9e3e5-1e6c-428f-b04e-820693135622","required":null},"nodes":[{"node_type":"page","node_label":"video","query_string":"level/3/section/1/video/1","name":"Forms and Models","attributes":{"_uid":"64e9e833-1c92-4d90-9483-13b7c8c362e1","required":null},"progress":0},{"node_type":"page","node_label":"editor_challenge","query_string":"level/3/section/1/using-ng-repeat","name":"Displaying Reviews should seem repetitive","attributes":{"_uid":"b1b56f54-7875-4fad-84c8-cf27e13f2e7f","required":true},"progress":0},{"node_type":"page","node_label":"editor_challenge","query_string":"level/3/section/1/review-form","name":"Create a Review Form","attributes":{"_uid":"e67294dd-a59e-4178-bca0-f4c213db93be","required":true},"progress":0},{"node_type":"page","node_label":"editor_challenge","query_string":"level/3/section/1/live-preview","name":"Review Live Preview!","attributes":{"_uid":"0a273225-2ac0-451a-a13f-2ee2daca243b","required":true},"progress":0}],"progress":0},{"node_type":"container","node_label":"section","query_string":"level/3/section/2","name":"Review Controller \u0026 Functionality","attributes":{"_uid":"1d2b67f6-5bbc-471e-ac3d-68d0b2863819","required":null},"nodes":[{"node_type":"page","node_label":"video","query_string":"level/3/section/2/video/1","name":"Accepting Submissions","attributes":{"_uid":"3639bb79-8643-4117-aa6c-36d28e0073f6","required":null},"progress":0},{"node_type":"page","node_label":"editor_challenge","query_string":"level/3/section/2/creating-review-controller","name":"Creating Review Controller","attributes":{"_uid":"5e3abe2d-2ac8-411e-8ff9-a9aaa5af0be9","required":true},"progress":0},{"node_type":"page","node_label":"editor_challenge","query_string":"level/3/section/2/using-review-controller","name":"Using Review Controller","attributes":{"_uid":"58804066-24ff-4e90-af86-9298ce687b7c","required":true},"progress":0}],"progress":0},{"node_type":"container","node_label":"section","query_string":"level/3/section/3","name":"Form Validation","attributes":{"_uid":"0ebbf7bf-51e4-4dea-ad09-bd4817ee3f98","required":null},"nodes":[{"node_type":"page","node_label":"video","query_string":"level/3/section/3/video/1","name":"Form Validations 101","attributes":{"_uid":"115cee53-6dc0-4702-96d7-715944701779","required":null},"progress":0},{"node_type":"page","node_label":"editor_challenge","query_string":"level/3/section/3/form-validation","name":"Form Validation","attributes":{"_uid":"ef4905c7-7d40-41cd-beb2-9556514c2c6b","required":true},"progress":0},{"node_type":"page","node_label":"editor_challenge","query_string":"level/3/section/3/form-styling","name":"Form Styling","attributes":{"_uid":"e363050a-38bf-4a1e-92f2-224dee0165d0","required":true},"progress":0},{"node_type":"page","node_label":"editor_challenge","query_string":"level/3/section/3/review-created-on","name":"Showing CreatedOn Date","attributes":{"_uid":"fa3faae1-17c6-499b-963b-5e3dfdfad78a","required":true},"progress":0}],"progress":0},{"node_type":"page","node_label":"level_wrap_up","query_string":"level/3/wrap-up","name":null,"attributes":{"_uid":"429b43ac-da6d-4e81-8c19-20b6b04d377c","required":null},"progress":0}],"progress":0},{"node_type":"container","node_label":"level","query_string":"level/4","name":"Custom Directives","attributes":{"_uid":"2a3b2b3c-27e6-4385-b4db-9da1848fea1c","required":null},"nodes":[{"node_type":"container","node_label":"section","query_string":"level/4/section/1","name":"Templating with Custom Directives","attributes":{"_uid":"e73f18fa-8d10-484b-9528-dec0e15f8a35","required":null},"nodes":[{"node_type":"page","node_label":"video","query_string":"level/4/section/1/video/1","name":"Directives","attributes":{"_uid":"fd3122c6-b170-4eff-b2ef-c1f745dbb21c","required":null},"progress":0},{"node_type":"page","node_label":"editor_challenge","query_string":"level/4/section/1/refactoring-description-tab","name":"Refactoring Description Tab","attributes":{"_uid":"2181c460-a6bd-4f2d-a697-dc1e0a89e4c9","required":true},"progress":0},{"node_type":"page","node_label":"editor_challenge","query_string":"level/4/section/1/element-directives","name":"Creating an Element Directive","attributes":{"_uid":"128241e2-0b4e-470b-8948-e556f732f1e1","required":true},"progress":0},{"node_type":"page","node_label":"editor_challenge","query_string":"level/4/section/1/attribute-directives","name":"Creating an Attribute Directive","attributes":{"_uid":"f035e8a4-72ab-4080-a01d-a3f01f595ea8","required":true},"progress":0}],"progress":0},{"node_type":"container","node_label":"section","query_string":"level/4/section/2","name":"Smarter Custom Directives","attributes":{"_uid":"eb96cddc-1d54-42a7-ad0e-b8b40d45488c","required":null},"nodes":[{"node_type":"page","node_label":"video","query_string":"level/4/section/2/video/1","name":"Directive Controllers","attributes":{"_uid":"0b96e787-e610-4b0a-9ce2-a07ce4cc7725","required":null},"progress":0},{"node_type":"page","node_label":"editor_challenge","query_string":"level/4/section/2/product-tabs","name":"Refactoring Product Tabs","attributes":{"_uid":"b047fb6b-fa0e-4cc1-80b1-a7ed76b40842","required":true},"progress":0},{"node_type":"page","node_label":"editor_challenge","query_string":"level/4/section/2/product-gallery","name":"Refactoring Product Gallery","attributes":{"_uid":"30334aa7-37b6-44b6-89bf-b8096f207a68","required":true},"progress":0}],"progress":0},{"node_type":"page","node_label":"level_wrap_up","query_string":"level/4/wrap-up","name":null,"attributes":{"_uid":"9a251768-022c-4197-beb6-0695bc6b363e","required":null},"progress":0}],"progress":0},{"node_type":"container","node_label":"level","query_string":"level/5","name":"Services","attributes":{"_uid":"2a81cbb1-fdd7-4ca7-a930-87ff5ee438a2","required":null},"nodes":[{"node_type":"container","node_label":"section","query_string":"level/5/section/1","name":"Module Inception","attributes":{"_uid":"21693517-0917-49c8-91ae-63cde835b48c","required":null},"nodes":[{"node_type":"page","node_label":"video","query_string":"level/5/section/1/video/1","name":"Dependencies","attributes":{"_uid":"5aaf206d-0d26-45b0-820f-16b97beef83b","required":null},"progress":0},{"node_type":"page","node_label":"editor_challenge","query_string":"level/5/section/1/refactoring-into-a-module","name":"Refactoring into a Module","attributes":{"_uid":"55f4c915-caf3-497d-95c9-fefa2777b1c7","required":true},"progress":0}],"progress":0},{"node_type":"container","node_label":"section","query_string":"level/5/section/2","name":"Section 2","attributes":{"_uid":"b949a140-f403-4cfe-8b67-922f4aace811","required":null},"nodes":[{"node_type":"page","node_label":"video","query_string":"level/5/section/2/video/1","name":"Services","attributes":{"_uid":"380537c2-bb83-48b1-8f60-4faee8db8d1c","required":null},"progress":0},{"node_type":"page","node_label":"editor_challenge","query_string":"level/5/section/2/services","name":"Built-in Angular Services","attributes":{"_uid":"503eca53-0290-41b0-9131-b99154d585fd","required":true},"progress":0}],"progress":0},{"node_type":"page","node_label":"level_wrap_up","query_string":"level/5/wrap-up","name":null,"attributes":{"_uid":"e47a7abd-47e5-4bf0-9eec-9b1228b7678c","required":null},"progress":0}],"progress":0},{"node_type":"page","node_label":"wrap_up_video","query_string":"wrap-up-video","name":"Wrapping it all up","attributes":{"_uid":"23ae5d60-7b89-426f-99ce-6250ec628947","required":null},"progress":0},{"node_type":"page","node_label":"course_wrap_up","query_string":"wrap-up","name":null,"attributes":{"_uid":"1d6a9456-dcd9-48aa-85b0-64d4f894edaa","required":null},"progress":0}],"progress":0}
+</script>
+<script id='_courseConfig' type='text/ng-template'>
+{"development_mode":false,"subtract_points_on":"last_hint","hint_point_value":100,"points_per_page":250,"points_per_task_answer":10,"course_logo":"logo-course.png","default_editor_theme":"default","default_gravatar":"1c02274fedcce55a289172bfb8db25ab","twitter_message":"I just whipped my script into shape with Angular.js on @codeschool!\n","wrapup_message":"I just whipped my script into shape with Angular.js","share_url":"https://www.codeschool.com/courses/shaping-up-with-angular-js","default_page_complete_message":"Success!\n","marketing_site_name":"Code School","marketing_site_url":"http://www.codeschool.com","marketing_site_account_url":"http://www.codeschool.com/account","forum_url":"http://discuss.codeschool.com/","support_url":"http://support.codeschool.com","authentication_provider":"codeschool","sandbox_script":"abecedary-shaping-up-with-angular-js.js","og_title":"Shaping up with Angular.js","og_description":"","og_url":"https://www.codeschool.com/courses/shaping-up-with-angular-js","og_image":"http://campus.codeschool.com/shaping-up-with-angular-js/achievements/badges/badge-course.png","og_site_name":"Code School","og_twitter_name":"@codeschool","og_twitter_description":"Learn the basics of Angular.js","resources":[{"name":"Course Slides","url":"http://courseware.codeschool.com/shaping-up-with-angular-js/Slides/level01-05.pdf"},{"name":"Ramp Up","url":"http://www.viddler.com/file/d/254ad8a6.mp4?vfid=708606594322dbdc7955dd24e8d3043e"},{"name":"Index HTML Setup","url":"http://www.viddler.com/file/d/2ea3b050.mp4?vfid=708604524920d3deb1ee7ec7f215bd4b"},{"name":"Built-in Directives","url":"http://www.viddler.com/file/d/a4a83fc3.mp4?vfid=7086025e4920d1deff64da1aa743aece"},{"name":"Filters and a New Directive","url":"http://www.viddler.com/file/d/dd6b5436.mp4?vfid=7086025e4820d5d41282288ecdcab93b"},{"name":"Tabs Inside Out","url":"http://www.viddler.com/file/d/c2f4302f.mp4?vfid=7086025f4126dad82af77ae5241309d1"},{"name":"Forms and Models","url":"http://www.viddler.com/file/d/169bf6b2.mp4?vfid=708606594324d6dee756fb1285ee2986"},{"name":"Accepting Submissions","url":"http://www.viddler.com/file/d/670af7f9.mp4?vfid=708604534428d4da69818e1bc64531fa"},{"name":"Form Validations 101","url":"http://www.viddler.com/file/d/8b24fba1.mp4?vfid=7086025f4027d3dabb4e78befda841eb"},{"name":"Directives","url":"http://www.viddler.com/file/d/8ace2a86.mp4?vfid=708606594327d0dc89b859c7bd3838dc"},{"name":"Directive Controllers","url":"http://www.viddler.com/file/d/42af336a.mp4?vfid=7086025f4323d1dcf2116b0a2df5c593"},{"name":"Dependencies","url":"http://www.viddler.com/file/d/255e63.mp4?vfid=708606594327d4de70cad256912a6a79"},{"name":"Services","url":"http://www.viddler.com/file/d/dffabfa3.mp4?vfid=7086025f4224d2de64d9630181ac8174"}]}
+</script>
+<script id='_assetManifest' type='text/ng-template'>
+{"OpenSans-Bold.eot":"OpenSans-Bold-d31b8721df261f29e4e755be187d0e38.eot","OpenSans-Bold.svg":"OpenSans-Bold-5e73760a790092c2214bb865f3010b31.svg","OpenSans-Bold.ttf":"OpenSans-Bold-3056289a63dce719d396ad96ce963800.ttf","OpenSans-Bold.woff":"OpenSans-Bold-7ad50821eb6f95e2d55dc00b4b557315.woff","OpenSans-Italic.eot":"OpenSans-Italic-2896fca6bb2155aa003100242f0424f0.eot","OpenSans-Italic.svg":"OpenSans-Italic-065c54ac08221258022b1e660adf9fce.svg","OpenSans-Italic.ttf":"OpenSans-Italic-49756bd0baa82a0b50480b960eba00e0.ttf","OpenSans-Italic.woff":"OpenSans-Italic-5bf48c1175b76ba1e7d138c7a2cb4250.woff","OpenSans-Light.eot":"OpenSans-Light-927b6382619749be23c6825db6b579f9.eot","OpenSans-Light.svg":"OpenSans-Light-ea9969e5c4615c8b2c14fa00c630964c.svg","OpenSans-Light.ttf":"OpenSans-Light-c517a768639ce814b9d7fa56e61c9251.ttf","OpenSans-Light.woff":"OpenSans-Light-516a0adfcc369204a140a34d0b860849.woff","OpenSans-Regular.eot":"OpenSans-Regular-6496f31a141f0e18f41c3da3dd6f72ed.eot","OpenSans-Regular.svg":"OpenSans-Regular-cae7c0557b79ac336c462c84bef807bf.svg","OpenSans-Regular.ttf":"OpenSans-Regular-80beb2383a7547b6419e28d36ff946ee.ttf","OpenSans-Regular.woff":"OpenSans-Regular-9e9e1c040dec449f86635cab2e4d028e.woff","icons.eot":"icons-5f5f1566f7bea808d0c28dd50eea97cc.eot","icons.svg":"icons-05d97ce50fd37b6618f28fa3eba11556.svg","icons.ttf":"icons-fe4bc6c94ed4da8df142f28f16bad480.ttf","icons.woff":"icons-54fbb8d7218cee230e3a5d145d6834c1.woff","icons/arrowDown.svg":"icons/arrowDown-320044ed356f2ee953dc7f3d775d5a54.svg","icons/arrowLeft.svg":"icons/arrowLeft-d0739ee01a6ac77a4028eb149e93147f.svg","icons/arrowRight.svg":"icons/arrowRight-93c8dd1f9df3bbbd1ac4fa6ff6552d20.svg","icons/arrowUp.svg":"icons/arrowUp-7b9ff4e91c8d35c279a0a2d11b6ceed4.svg","icons/challenge.svg":"icons/challenge-133afcf595bce9b7d0296fb77e33cbc0.svg","icons/check--alt.svg":"icons/check--alt-9d7febf5114c7075e3c30e6330912ed7.svg","icons/check.svg":"icons/check-4553d9fea89befd7dcebad71492328f9.svg","icons/checkWork.svg":"icons/checkWork-37905626423c482c5785d1b43ad8f6b6.svg","icons/circle.svg":"icons/circle-86411be67012f5e3aabe59c2ed691709.svg","icons/close.svg":"icons/close-bd19443d1a95a2dbdc4e9ce311dfe1de.svg","icons/fontcustom.yml":"icons/fontcustom-6545f93d2d00559aa5d0e8413a6c84a6.yml","icons/fullscreen.svg":"icons/fullscreen-e60ea3f1ef1c2cbd53253588f25a90a0.svg","icons/glossary.svg":"icons/glossary-1d2c0e8786030cff06ffdc341be380df.svg","icons/hint--alt--a.svg":"icons/hint--alt--a-c4f5f660907cd8257041912b5bf75380.svg","icons/hint--alt--b.svg":"icons/hint--alt--b-b767b76bab8c480955e36fc693875089.svg","icons/hint.svg":"icons/hint-be39968f7e01acdf110d9bbdd03c2c83.svg","icons/incorrect.svg":"icons/incorrect-eec4dfeaa7103a5f6694c701046ec769.svg","icons/lock--alt.svg":"icons/lock--alt-ccc36e2229f5a05c97b46c85ce422105.svg","icons/lock.svg":"icons/lock-c2a4644a6b0ca5228c07393a32182984.svg","icons/menu--alt.svg":"icons/menu--alt-952a0a0d3003bd5ce17e3717f3bc3125.svg","icons/menu.svg":"icons/menu-ebd4cf7a54803683c496b3c5c3d707c7.svg","icons/minus.svg":"icons/minus-a4742680514214854f523a74f111f98a.svg","icons/plus.svg":"icons/plus-b7b1e95b8bc12c7a219caacf521c2e93.svg","icons/points.svg":"icons/points-8f7bcad1e23951b8965ffa13bb18d656.svg","icons/restart.svg":"icons/restart-49a037518af6084ba4fd9263fe61a2b5.svg","icons/share.svg":"icons/share-81877c9838be273f74a9fbce1f00f390.svg","icons/slides--alt.svg":"icons/slides--alt-72cd279e8e37cbc11fb6ff53b1fcadc2.svg","icons/slides.svg":"icons/slides-094270d7a13252a2ad0ed017649f5895.svg","icons/unfullscreen.svg":"icons/unfullscreen-d058efce911c54c09b828a9e6bbda285.svg","icons/user.svg":"icons/user-ad325ce842bcf6d11185e2932ef6153a.svg","icons/video--alt--a.svg":"icons/video--alt--a-028536d78913d60656c6f1f7865c26f2.svg","icons/video--alt--b.svg":"icons/video--alt--b-0e714092c83a6672258f89ea51c98c6d.svg","icons/video--alt--c.svg":"icons/video--alt--c-945d5ad8e55b537859131ae82af05e6f.svg","icons/video.svg":"icons/video-b915b762c84fde8a733a340cf2112ef7.svg","icons/warning.svg":"icons/warning-0185018575180e03b6f29d0aeb4e479f.svg","badge-default.png":"badge-default-b311d42d58ef9f029fbc0bf5998d5772.png","bg-achievementCard.svg":"bg-achievementCard-f6c88457632a879f99438b22716a2ded.svg","logo.svg":"logo-31d4343d8dc9e4ee9692ff18736c33cc.svg","share/share-facebook.svg":"share/share-facebook-fdc015014697123b00cd073f32981a63.svg","share/share-google.png":"share/share-google-2b2c7a8b7f5d10be1102c03902554924.png","share/share-google@2x.png":"share/share-google@2x-fff480215cb707c3e66bed4645b918b8.png","share/share-twitter-light.svg":"share/share-twitter-light-94ce36ce62615245a629522e88245964.svg","share/share-twitter.svg":"share/share-twitter-7a4a22365dd71d2ff0f5175936c4a972.svg","application.js":"application-93436d175b6bf84199199a6ae381b483.js","campus/README.md":"campus/README-f42d5295886ac128b92262ba87240b0c.md","codemirror-dart/index.html":"codemirror-dart/index-bfbdc91fa6fcdec4348908f4be9003e8.html","jquery.min.map":"jquery.min-ad0ccbee5ec87cb5291f09fdbda65c5b.map","google-rails.js":"google-rails-311537d2437df1ab4aef29d8377a48d1.js"}
+</script>
+<script id='_googleAnalyticsData' type='text/ng-template'>
+[{"id":"UA-45296188-4","ignored_referrers":[],"allow_linker":false,"path_modifier":"%{path}"},{"id":"UA-9740749-23","ignored_referrers":["codeschool.com","campus.codeschool.com"],"allow_linker":true,"path_modifier":"/campus.codeschool.com%{path}","domain_name":"none"}]
+</script>
+<script id='course_index' type='text/ng-template'>
+<course-map scroll-element-selector='main'></course-map>
+<course-resources></course-resources>
+<div class='omnibar-btn'>
+  <next-challenge-button>Continue</next-challenge-button>
+</div>
+
+</script>
+<script id='user_achievements' type='text/ng-template'>
+<h1 class='content-title'>Achievements</h1>
+<achievements-list placeholder='badge-default.png'></achievements-list>
+
+</script>
+<script id='course_wrap_up' type='text/ng-template'>
+<!-- directive: disableOptionalNav omnibar -->
+<!-- directive: require_complete course else:course_index  -->
+<div class='wrap-hero row'>
+  <div class='wrap-cell cell'>
+    <div class='g'>
+      <div class='g-b g-b--1of3'>
+        <div class='achievementCard achievementCard--flourish achievementCard--share'>
+          <h3 class='achievementCard-title'>
+            <b class='achievementCard-title-label'>You Earned:</b>
+            <span class='achievementCard-title-levelLabel'>
+              Course
+            </span>
+            Completion Badge
+          </h3>
+          <level-badge class='achievementCard-badge is-unlocked'></level-badge>
+          <social-share class='achievementCard-share' popup-height='400' popup-width='575'>
+            <share-item-twitter></share-item-twitter>
+            <share-item-facebook></share-item-facebook>
+            <share-item-google></share-item-google>
+          </social-share>
+        </div>
+      </div>
+      <div class='g-b g-b--2of3'>
+        <h1 class='mtm'>Congratulations!</h1>
+        <p page-content='html'>
+          {{body_content}}
+        </p>
+      </div>
+    </div>
+  </div>
+</div>
+<div class='wrap-row row'>
+  <div class='wrap-cell cell'>
+    <div class='g'>
+      <div class='g-b g-b--1of2'>
+        <div class='wrap-desc' page-content='html'>
+          {{learn_more}}
+        </div>
+      </div>
+      <div class='g-b g-b--1of2' page-content>
+        <h2>{{related_content_title}}</h2>
+        <ul class='courseList'>
+          <li class='courseList-item' ng-repeat='course in related_courses'>
+            <div class='courseList-item-bucket'>
+              <div class='courseList-item-media'>
+                <div class='badge badge--sm'>
+                  <img alt='' class='badge-img' height='55' src='{{courseUrl(course.badge)}}' width='55'>
+                </div>
+              </div>
+              <div class='courseList-item-content courseList-item-content--{{course.path|lowercase}}'>
+                <h4 class='courseList-item-label'>{{course.path}}</h4>
+                <h3 class='courseList-item-title'>
+                  <a href='{{course.url}}'>{{course.name}}</a>
+                </h3>
+              </div>
+            </div>
+          </li>
+        </ul>
+      </div>
+    </div>
+  </div>
+</div>
+
+</script>
+<script id='sponsored_intro' type='text/ng-template'>
+<!-- directive: disableOptionalNav omnibar -->
+<div class='intro'>
+  <div class='intro-row row'>
+    <div class='intro-cell intro-cell--b'>
+      <div class='g'>
+        <div class='g-b intro-box'>
+          <div class='intro-video'>
+            <page-video autoplay='false' extra-controls='hide' player-url='//cdn.sublimevideo.net/js/33r2xa49.js'></page-video>
+          </div>
+        </div>
+        <div class='g-b intro-box'>
+          <h1 class='intro-title' page-content>
+            {{intro_title}}
+          </h1>
+          <next-challenge-button class='intro-btn'>Start Course</next-challenge-button>
+          <dl class='intro-sponsorList sponsorList'>
+            <div class='sponsorList-item'>
+              <dt class='sponsorList-item-title'>
+                Sponsored by
+              </dt>
+              <dd class='sponsorList-item-body' page-content>
+                <a href='{{sponsor_url}}'>
+                  <img alt="{{sponsor_name}}" height="45" ng-src="http://dhg7upb7j7jqa.cloudfront.net//shaping_up_with_angular_js/assets/images/{{courseAsset(sponsor_img)}}" width="136" />
+                </a>
+              </dd>
+            </div>
+            <div class='sponsorList-item'>
+              <dt class='sponsorList-item-title'>
+                Produced by
+              </dt>
+              <dd class='sponsorList-item-body' page-content>
+                <a href='{{producer_url}}'>
+                  <img alt="{{producer_name}}" height="34" ng-src="http://dhg7upb7j7jqa.cloudfront.net//shaping_up_with_angular_js/assets/images/{{courseAsset(producer_img)}}" width="207" />
+                </a>
+              </dd>
+            </div>
+          </dl>
+        </div>
+      </div>
+    </div>
+  </div>
+  <div class='row'>
+    <div class='intro-cell'>
+      <div class='g'>
+        <div class='g-b intro-box'>
+          <h2 class='intro-subTitle'>What You'll Learn in this Course</h2>
+          <course-level-list></course-level-list>
+        </div>
+        <div class='g-b intro-box'>
+          <div class='card card--a'>
+            <div class='intro-breakdown'>
+              <h2 class='intro-subTitle'>Course Breakdown</h2>
+              <ul class='intro-statList statList'>
+                <li class='statList-item'>
+                  <div class='statList-item-content'>
+                    <page-count pages='video'></page-count>
+                    <b class='statList-item-label'>Videos</b>
+                  </div>
+                </li>
+                <li class='statList-item'>
+                  <div class='statList-item-content'>
+                    <page-count required='true'></page-count>
+                    <b class='statList-item-label'>Challenges</b>
+                  </div>
+                </li>
+                <li class='statList-item'>
+                  <div class='statList-item-content'>
+                    <badge-count></badge-count>
+                    <b class='statList-item-label'>Badges</b>
+                  </div>
+                </li>
+              </ul>
+            </div>
+            <h2 class='intro-subTitle'>Badges You'll Earn</h2>
+            <badge-list class='intro-badgeList'></badge-list>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+
+</script>
+<script id='singleform/video' type='text/ng-template'>
+<!-- directive: complete_non_required_page on:view -->
+<div class='video'>
+  <objective-header class='header--video' number-divider='.'></objective-header>
+  <sublime-video-player autoplay='true' download-file-type='mp4' download-sizes='HD:1280x720, SD:854x480' player-url='//cdn.sublimevideo.net/js/33r2xa49.js'></sublime-video-player>
+</div>
+<div class='omnibar-btn'>
+  <next-challenge-button>Start Challenges</next-challenge-button>
+</div>
+
+</script>
+<script id='singleform/wrap_up' type='text/ng-template'>
+<!-- directive: require_complete level else:course_index  -->
+<div class='hero hero--wrap'></div>
+<div class='wrap'>
+  <div class='wrap-cell cell'>
+    <div class='g'>
+      <div class='g-b g-b--2of3'>
+        <h1 class='wrap-title'>
+          <b class='wrap-title-label'>
+            Level
+            <level-number></level-number>
+          </b>
+          Completed
+        </h1>
+        <p when-not-logged-in>
+          In order to save your progress and collect this amazing badge, you'll
+          need to <user-login-link>sign in or create an account on Code
+          School</user-login-link>. Otherwise, please click the button on the
+          lower right to continue.
+        </p>
+        <dl class='user-list user-list--f user-list--s'>
+          <div class='user-list-item'>
+            <dt class='user-list-item-title'>Total Points</dt>
+            <dd class='user-list-item-body'>
+              <user-total-points></user-total-points>
+            </dd>
+          </div>
+          <div class='user-list-item'>
+            <dt class='user-list-item-title'>Challenges Completed</dt>
+            <dd class='user-list-item-body'>
+              <user-challenges-completed></user-challenges-completed>
+            </dd>
+          </div>
+          <div class='user-list-item'>
+            <dt class='user-list-item-title'>Videos Watched</dt>
+            <dd class='user-list-item-body'>
+              <user-videos-watched></user-videos-watched>
+            </dd>
+          </div>
+          <div class='user-list-item'>
+            <dt class='user-list-item-title'>Achievements Earned</dt>
+            <dd class='user-list-item-body'>
+              <user-achievements-earned></user-achievements-earned>
+            </dd>
+          </div>
+          <div class='user-list-item'>
+            <dt class='user-list-item-title'>Hints Used</dt>
+            <dd class='user-list-item-body'>
+              <user-hints-used></user-hints-used>
+            </dd>
+          </div>
+        </dl>
+      </div>
+      <div class='g-b g-b--1of3'>
+        <div class='achievementCard achievementCard--share'>
+          <h3 class='achievementCard-title'>
+            <b class='achievementCard-title-label'>You Earned:</b>
+            <span class='achievementCard-title-levelLabel'>
+              Level
+              <level-number></level-number>
+            </span>
+            Completion Badge
+          </h3>
+          <level-badge class='achievementCard-badge is-unlocked'></level-badge>
+          <social-share class='achievementCard-share' popup-height='400' popup-width='575'>
+            <share-item-twitter></share-item-twitter>
+            <share-item-facebook></share-item-facebook>
+            <share-item-google></share-item-google>
+          </social-share>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+<div class='omnibar-btn'>
+  <next-challenge-button>Continue</next-challenge-button>
+</div>
+
+</script>
+<script id='singleform/wrap_up_video' type='text/ng-template'>
+<div class='video'>
+  <objective-header class='header--video' disable-numbers='true'></objective-header>
+  <sublime-video-player autoplay='true' download-file-type='mp4' download-sizes='HD:1280x740, SD:854x480, HD:1280x720, SD:831x480' player-url='//cdn.sublimevideo.net/js/33r2xa49.js'></sublime-video-player>
+</div>
+<div class='omnibar-btn'>
+  <next-challenge-button>Continue</next-challenge-button>
+</div>
+
+</script>
+<script id='singleform/editor_tasks_challenge' type='text/ng-template'>
+<div class='panel panel--instructions' feed-scroll-element>
+  <div class='instructions'>
+    <div class='objective'>
+      <objective-header class='header--challenge' number-divider='.'></objective-header>
+      <instructions></instructions>
+    </div>
+    <div class='instructions-btnList btnList'>
+      <hint-button class='btnList-btn'></hint-button>
+    </div>
+    <task-list></task-list>
+    <challenge-feed></challenge-feed>
+  </div>
+</div>
+<activity-panel class='panelList--2 is-collapsed'>
+  <panel-element controls='fullscreen'>
+    <code-editor-tabs class='codeEditor--stretch'></code-editor-tabs>
+  </panel-element>
+  <panel-element controls='fullscreen'>
+    <tabbed-resources panel-tab-controls></tabbed-resources>
+  </panel-element>
+</activity-panel>
+<submit-button class='omnibar-btn'>Check My Work</submit-button>
+
+</script>
+<script id='user_info' type='text/ng-template'>
+<div class='user user--middle'>
+  <div class='user-info'>
+    <div class='user-content'>
+      <user-name></user-name>
+      <p class='user-content-link'>
+        <a href='http://codeschool.com/account'>View Account</a>
+      </p>
+    </div>
+    <user-avatar></user-avatar>
+  </div>
+  <total-course-progress></total-course-progress>
+  <dl class='user-list'>
+    <div class='user-list-item'>
+      <dt class='user-list-item-title'>Total Points</dt>
+      <dd class='user-list-item-body'>
+        <user-total-points></user-total-points>
+      </dd>
+    </div>
+    <div class='user-list-item'>
+      <dt class='user-list-item-title'>Challenges Completed</dt>
+      <dd class='user-list-item-body'>
+        <user-challenges-completed></user-challenges-completed>
+      </dd>
+    </div>
+    <div class='user-list-item'>
+      <dt class='user-list-item-title'>Videos Watched</dt>
+      <dd class='user-list-item-body'>
+        <user-videos-watched></user-videos-watched>
+      </dd>
+    </div>
+    <div class='user-list-item'>
+      <dt class='user-list-item-title'>Achievements Earned</dt>
+      <dd class='user-list-item-body'>
+        <user-achievements-earned></user-achievements-earned>
+      </dd>
+    </div>
+    <div class='user-list-item'>
+      <dt class='user-list-item-title'>Hints Used</dt>
+      <dd class='user-list-item-body'>
+        <user-hints-used></user-hints-used>
+      </dd>
+    </div>
+  </dl>
+</div>
+
+</script>
+<script id='_courseTemplateIndex' type='text/ng-template'>
+{"shaping-up-with-angular-js":"render(intro)","user/account":"render(user/account/info)","user/account/info":"user_info","user/account/achievements":"user_achievements","intro":"sponsored_intro","contents":"course_index","level/1":"render(level/1/section/1/video/1)","level/1/section/1":"render(level/1/section/1/video/1)","level/1/section/1/video/1":"singleform/video","level/1/section/1/creating-a-store-module":"singleform/editor_tasks_challenge","level/1/section/2":"render(level/1/section/2/video/1)","level/1/section/2/video/1":"singleform/video","level/1/section/2/our-first-controller":"singleform/editor_tasks_challenge","level/1/section/3":"render(level/1/section/3/video/1)","level/1/section/3/video/1":"singleform/video","level/1/section/3/not-for-sale":"singleform/editor_tasks_challenge","level/1/section/3/more-gems":"singleform/editor_tasks_challenge","level/1/wrap-up":"singleform/wrap_up","level/2":"render(level/2/section/1/video/1)","level/2/section/1":"render(level/2/section/1/video/1)","level/2/section/1/video/1":"singleform/video","level/2/section/1/using-filters":"singleform/editor_tasks_challenge","level/2/section/1/displaying-first-image":"singleform/editor_tasks_challenge","level/2/section/1/display-all-thumbnails":"singleform/editor_tasks_challenge","level/2/section/1/no-images-no-gallery":"singleform/editor_tasks_challenge","level/2/section/2":"render(level/2/section/2/video/1)","level/2/section/2/video/1":"singleform/video","level/2/section/2/tabs-inside-out":"singleform/editor_tasks_challenge","level/2/section/2/using-tab-controller":"singleform/editor_tasks_challenge","level/2/section/2/gallery-controller":"singleform/editor_tasks_challenge","level/2/section/2/using-gallery-controller":"singleform/editor_tasks_challenge","level/2/wrap-up":"singleform/wrap_up","level/3":"render(level/3/section/1/video/1)","level/3/section/1":"render(level/3/section/1/video/1)","level/3/section/1/video/1":"singleform/video","level/3/section/1/using-ng-repeat":"singleform/editor_tasks_challenge","level/3/section/1/review-form":"singleform/editor_tasks_challenge","level/3/section/1/live-preview":"singleform/editor_tasks_challenge","level/3/section/2":"render(level/3/section/2/video/1)","level/3/section/2/video/1":"singleform/video","level/3/section/2/creating-review-controller":"singleform/editor_tasks_challenge","level/3/section/2/using-review-controller":"singleform/editor_tasks_challenge","level/3/section/3":"render(level/3/section/3/video/1)","level/3/section/3/video/1":"singleform/video","level/3/section/3/form-validation":"singleform/editor_tasks_challenge","level/3/section/3/form-styling":"singleform/editor_tasks_challenge","level/3/section/3/review-created-on":"singleform/editor_tasks_challenge","level/3/wrap-up":"singleform/wrap_up","level/4":"render(level/4/section/1/video/1)","level/4/section/1":"render(level/4/section/1/video/1)","level/4/section/1/video/1":"singleform/video","level/4/section/1/refactoring-description-tab":"singleform/editor_tasks_challenge","level/4/section/1/element-directives":"singleform/editor_tasks_challenge","level/4/section/1/attribute-directives":"singleform/editor_tasks_challenge","level/4/section/2":"render(level/4/section/2/video/1)","level/4/section/2/video/1":"singleform/video","level/4/section/2/product-tabs":"singleform/editor_tasks_challenge","level/4/section/2/product-gallery":"singleform/editor_tasks_challenge","level/4/wrap-up":"singleform/wrap_up","level/5":"render(level/5/section/1/video/1)","level/5/section/1":"render(level/5/section/1/video/1)","level/5/section/1/video/1":"singleform/video","level/5/section/1/refactoring-into-a-module":"singleform/editor_tasks_challenge","level/5/section/2":"render(level/5/section/2/video/1)","level/5/section/2/video/1":"singleform/video","level/5/section/2/services":"singleform/editor_tasks_challenge","level/5/wrap-up":"singleform/wrap_up","wrap-up-video":"singleform/wrap_up_video","wrap-up":"course_wrap_up"}
+</script>
+</campus>
+
